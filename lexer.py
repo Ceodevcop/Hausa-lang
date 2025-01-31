@@ -1,15 +1,8 @@
+# lexer.py
 import ply.lex as lex
 
 tokens = (
-    'FARA',
-    'KARSHE',
-    'RUBUTA',
-    'LAMBA',
-    'DAIDAI',
-    'IDAN',
-    'SAU',
-    'NUMBER',
-    'STRING',
+    'FARA', 'KARSHE', 'RUBUTA', 'LAMBA', 'DAIDAI', 'IDAN', 'SAU', 'NUMBER', 'STRING'
 )
 
 t_FARA = r'fara'

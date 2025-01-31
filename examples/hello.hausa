@@ -1,0 +1,8 @@
+fara
+    rubuta "Barka da zuwa zuwa harshen shirye-shiryen Hausa!"
+    lamba nisa daidai 10
+    sau nisa
+        rubuta "Ana ci gaba da tafiya..."
+    karshe
+    rubuta "An isa makomarsa."
+karshe

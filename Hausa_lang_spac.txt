@@ -1,0 +1,92 @@
+# Harshen Shirye-shiryen Hausa (Hausa Programming Language)
+
+## Keywords
+- False: Karya
+- None: Babu
+- True: Gaskiyane
+- and: da
+- as: kamar
+- assert: tabbatar
+- async: aiki lokaci guda
+- await: jira
+- break: karya
+- class: aji
+- continue: cigabada
+- def: ayyana shi
+- del: share shi
+- elif: idan ba haka ba
+- else: in ba haka ba
+- except: banda
+- finally: aƙarshe
+- for: don
+- from: daga
+- global: na duniya
+- if: idan
+- import: shigar da
+- in: aciki
+- is: shine
+- lambda: aikin mara suna
+- nonlocal: ba na gida ba
+- not: ba
+- or: ko
+- pass: wuce
+- raise: taso/kafa
+- return: mayar
+- try: gwada
+- while: yayin da
+- with: tare da
+- yield: bayar
+
+## Data Types
+- int: lamba
+- float: lamba mai girma
+- str: rubutu
+- bool: gaskiya
+- list: jerin
+- dict: gida
+- tuple: tsari
+- set: tarihi
+
+## Operators
+- +: ƙara
+- -: rage
+- *: ninka
+- /: raba
+- ==: daidai
+- !=: ba daidai ba
+- >: sama da
+- <: kasa da
+
+## Control Structures
+- if: idan
+- else: in ba haka ba
+- elif: idan ba haka ba
+- for: don
+- while: yayin da
+- break: karya
+- continue: cigabada
+
+## Functions
+- def: ayyana shi
+- return: mayar
+- lambda: aikin mara suna
+
+## File I/O
+- open: bude
+- read: karanta
+- write: rubuta_zuwa
+- close: rufe
+
+## Error Handling
+- try: gwada
+- except: banda
+- finally: aƙarshe
+
+## Concurrency
+- async: aiki lokaci guda
+- await: jira
+
+## Standard Library
+- print: rubuta
+- input: dauka
+- len: tsawon

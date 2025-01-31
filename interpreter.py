@@ -1,3 +1,4 @@
+# interpreter.py
 def interpret(ast, variables=None):
     if variables is None:
         variables = {}
@@ -12,15 +13,3 @@ def interpret(ast, variables=None):
     elif ast[0] == 'loop':
         for _ in range(variables[ast[1]]):
             interpret(ast[2], variables)
-
-# Example usage
-ast = parser.parse("""
-fara
-    rubuta "Barka da zuwa!"
-    lamba nisa daidai 3
-    sau nisa
-        rubuta "Ana ci gaba da tafiya..."
-    karshe
-karshe
-""")
-interpret(ast)
